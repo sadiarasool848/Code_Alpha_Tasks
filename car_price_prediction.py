@@ -119,4 +119,4 @@ results = X_test.copy()
 results['Actual_Price'] = y_test
 results['Predicted_Price'] = y_pred
 results.to_csv("predictions.csv", index=False)
-print("Predictions saved to predictions.csv")      
+print("Predictions saved to predictions.csv")

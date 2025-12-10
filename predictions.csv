@@ -1,0 +1,62 @@
+Car_Name,Present_Price,Driven_kms,Fuel_Type,Selling_type,Transmission,Owner,age,Actual_Price,Predicted_Price
+Honda Activa 125,0.57,24000,Petrol,Individual,Automatic,0,9,0.35,1.5125625165056036
+city,13.6,10980,Petrol,Dealer,Manual,0,9,10.11,9.58880632327445
+verna,9.4,60000,Diesel,Dealer,Manual,0,13,4.95,5.568835775559527
+Bajaj Discover 125,0.57,35000,Petrol,Individual,Manual,1,14,0.15,-0.40941814733111137
+corolla altis,18.61,40001,Petrol,Dealer,Manual,0,12,6.95,8.558960426058531
+ciaz,8.92,42367,Diesel,Dealer,Manual,0,10,7.45,6.8889085663690155
+Royal Enfield Classic 350,1.47,26000,Petrol,Individual,Manual,0,10,1.1,1.47635719074139
+Yamaha Fazer ,0.88,8000,Petrol,Individual,Manual,0,11,0.5,0.27624529700065104
+Hero Splender iSmart,0.54,14000,Petrol,Individual,Manual,0,9,0.45,0.9801447810025881
+ertiga,9.95,45000,Diesel,Dealer,Manual,0,11,6.0,6.6892542769635925
+vitara brezza,9.83,2071,Diesel,Dealer,Manual,0,7,9.25,9.671020691752272
+Royal Enfield Classic 350,1.47,33000,Petrol,Individual,Manual,0,12,1.1,0.29557627218574023
+ciaz,12.04,15000,Petrol,Dealer,Automatic,0,11,7.5,7.977595084626131
+Activa 4g,0.51,1300,Petrol,Individual,Automatic,0,8,0.4,2.1230295950932794
+verna,9.4,45000,Diesel,Dealer,Manual,0,12,6.15,6.192890606194562
+ritz,4.89,64532,Petrol,Dealer,Manual,0,12,2.65,2.7015148310241077
+Royal Enfield Classic 500,1.75,11500,Petrol,Individual,Manual,0,13,0.95,2.7238634374294977
+corolla altis,18.64,8700,Petrol,Dealer,Manual,0,8,17.0,10.989232236461024
+Honda Dream Yuga ,0.54,8600,Petrol,Individual,Manual,0,8,0.48,1.8101965211496847
+UM Renegade Mojave,1.82,1400,Petrol,Individual,Manual,0,8,1.7,2.6020092206571417
+Honda CB Trigger,0.73,12000,Petrol,Individual,Manual,0,12,0.42,-0.40592944103078743
+city,9.4,19434,Diesel,Dealer,Manual,0,9,8.35,7.6345589852836175
+verna,9.4,32322,Diesel,Dealer,Manual,0,13,5.35,5.649858599074736
+swift,4.99,20000,Petrol,Dealer,Manual,0,14,3.0,1.8974692909255166
+Bajaj Pulsar  NS 200,0.99,25000,Petrol,Individual,Manual,0,11,0.6,0.29271568844284523
+i20,6.79,35000,Petrol,Dealer,Manual,0,13,3.75,3.4891282213266877
+city,9.9,56701,Petrol,Dealer,Manual,0,12,5.0,5.486622830953287
+etios liva,5.71,43000,Petrol,Dealer,Manual,0,14,2.65,1.6085983039085665
+Royal Enfield Classic 350,1.47,11000,Petrol,Individual,Manual,0,8,1.2,2.6805568024150985
+Royal Enfield Thunder 350,1.5,18000,Petrol,Individual,Manual,0,9,1.2,2.6742195237330946
+Hero Extreme,0.787,16000,Petrol,Individual,Manual,0,12,0.65,-0.03307211766603313
+city,14.0,63000,Diesel,Dealer,Manual,0,11,8.25,9.116569128459794
+Bajaj Avenger 220 dtsi,0.95,27000,Petrol,Individual,Manual,0,15,0.45,-2.331168206292624
+sx4,7.15,58000,Petrol,Dealer,Manual,0,17,1.95,1.9832613296415955
+ertiga,10.79,43000,Diesel,Dealer,Manual,0,9,7.75,8.361193930749366
+amaze,7.0,35000,Petrol,Dealer,Manual,0,11,3.65,3.9890021750027342
+corolla altis,14.68,72000,Petrol,Dealer,Manual,0,12,5.5,6.09888858755908
+corolla altis,18.61,62000,Petrol,Dealer,Manual,0,16,3.8,6.173982823165813
+wagon r,4.41,56879,Petrol,Dealer,Manual,0,12,2.9,4.276773171990605
+corolla altis,18.54,50000,Petrol,Dealer,Manual,0,15,4.75,6.747106025679168
+innova,13.7,75000,Petrol,Dealer,Manual,0,20,3.51,5.51688688542977
+corolla,12.35,135154,Petrol,Dealer,Automatic,0,21,1.5,2.3868514509226006
+amaze,6.4,19000,Petrol,Dealer,Manual,0,11,4.5,3.6745571195039157
+TVS Apache RTR 160,0.81,42000,Petrol,Individual,Manual,0,11,0.42,0.2570604549932938
+s cross,8.61,33429,Diesel,Dealer,Manual,0,10,6.5,7.104183294759026
+Honda CBR 150,1.2,32000,Petrol,Individual,Manual,0,12,0.6,0.044972857481787365
+city,13.6,40126,Petrol,Dealer,Manual,0,11,6.25,8.343196607494733
+corolla altis,22.83,80000,Petrol,Dealer,Automatic,0,15,5.25,9.551983023451367
+i10,4.6,30000,Petrol,Dealer,Manual,0,12,4.0,3.9015225852316515
+i20,6.79,52132,Diesel,Dealer,Manual,0,13,3.1,4.038454548120612
+verna,9.4,36198,Petrol,Dealer,Automatic,0,12,5.11,5.9287072037515705
+Royal Enfield Classic 350,1.47,4100,Petrol,Individual,Manual,0,8,1.35,2.7007554252294255
+fortuner,35.96,47000,Diesel,Dealer,Automatic,0,10,23.5,22.929843666410335
+innova,25.39,15000,Diesel,Dealer,Automatic,0,8,23.0,20.602255792748053
+verna,9.4,61381,Diesel,Dealer,Manual,0,10,8.25,7.305227466776041
+city,13.6,30753,Petrol,Dealer,Automatic,0,9,10.9,9.840451734456638
+grand i10,5.7,4492,Petrol,Dealer,Manual,0,10,5.5,4.591712213291011
+city,11.6,33988,Diesel,Dealer,Manual,0,9,9.5,8.916656814190029
+city,7.6,50456,Petrol,Dealer,Manual,0,19,2.1,0.05897455434726062
+jazz,8.5,15059,Petrol,Dealer,Automatic,0,9,7.4,6.6261759931365285
+Honda CB Shine,0.58,30000,Petrol,Individual,Manual,0,12,0.3,3.6681974290230652
